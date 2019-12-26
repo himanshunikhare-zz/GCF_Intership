@@ -1,1 +1,1 @@
-# .NET web application made at GCF Jabalpur.
+# .NET web application Developed in GCF Jabalpur.
